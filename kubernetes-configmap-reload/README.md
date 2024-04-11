@@ -50,8 +50,8 @@ Pre-requisites[ TAKE AMAZON LINUX2 SYSTEM t2.micro]:
     
 Clone code from github:
 -------
-    git clone https://github.com/praveen1994dec/spring-cloud-kubernetes.git
-    cd spring-cloud-kubernetes/kubernetes-configmap-reload
+    git clone https://github.com/vickydevo/spring-clud-k8s-sing.git
+    cd spring-clud-k8s-sing/kubernetes-configmap-reload
     
 Build Maven Artifact:
 -------
