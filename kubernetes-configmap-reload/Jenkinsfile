@@ -1,4 +1,4 @@
-@Library('jenkins-shared-library@main') _
+@Library('jenkins-shared-library-sing@main') _
 pipeline {
 
   agent any
@@ -22,7 +22,7 @@ pipeline {
             steps {
                 gitCheckout(
                     branch: "main",
-                    url: "https://github.com/DEVOPS-WITH-WEB-DEV/spring-cloud-kubernetes.git"
+                    url: "https://github.com/vickydevo/spring-clud-k8s-sing.git"
                 )
             }
         }
