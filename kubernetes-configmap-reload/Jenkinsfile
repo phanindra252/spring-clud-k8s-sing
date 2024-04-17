@@ -22,7 +22,7 @@ pipeline {
             steps {
                 gitCheckout(
                     branch: "main",
-                    url: "https://github.com/vickydevo/spring-clud-k8s-sing.git"
+                    url: "https://github.com/phanindra252/spring-clud-k8s-sing.git"
                 )
             }
         }
